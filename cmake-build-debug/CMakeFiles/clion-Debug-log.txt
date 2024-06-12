@@ -1,0 +1,6 @@
+C:\Users\User\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/User/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S "D:\study\1 course\2 sem\OP\cuber temp" -B "D:\study\1 course\2 sem\OP\cuber temp\cmake-build-debug"
+CMake Error at CMakeLists.txt:6 (add_subdirectory):
+  add_subdirectory given source "lib" which is not an existing directory.
+
+
+-- Configuring incomplete, errors occurred!
